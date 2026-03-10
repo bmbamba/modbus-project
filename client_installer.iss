@@ -5,9 +5,8 @@
 AppId={{B2C3D4E5-F6A7-8901-BCDE-F12345678901}
 AppName=Modbus Client
 AppVersion=1.0.0
-AppPublisher=Your Company Name
-AppPublisherURL=https://yourwebsite.com
-DefaultDirName={autopf}\Modbus Client
+AppPublisher=clan
+DefaultDirName=Modbus Client
 DefaultGroupName=Modbus Client
 OutputDir=installer_output
 OutputBaseFilename=ModbusClient_Setup_v1.0.0
